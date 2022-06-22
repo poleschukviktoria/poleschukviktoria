@@ -14,7 +14,7 @@ I like to check software products as well as to make them hight quality.
 -	Testing mobile app (**Android studio**)    
 -	**Git**, **Git Bash**, **GitHub**    
 
-### :hammer_and_wrench: : Tools:  
+### :hammer_and_wrench: Tools:  
 <p>
   <img src="https://github.com/poleschukviktoria/poleschukviktoria/blob/main/icon/Charles_icon.png" width="50" title="Charles proxy">
   <img src="https://github.com/poleschukviktoria/poleschukviktoria/blob/main/icon/android_studio_alt_macos_bigsur_icon_190394.png" width="50" title="Android studio">
