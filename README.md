@@ -1,7 +1,7 @@
-:wave: Hi, my name is Vikoria and I`m a beginner tester!  
+:wave: Hi, my name is Viktoria and I`m a beginner tester!  
 I like to check software products as well as to make them hight quality.
 
-:woman_technologist: My general skills:  
+### :woman_technologist: My general skills:  
 -	Creating checklists, test cases and bug reports  
 -	Theoretical knowledge of Software Development Methodologies (Waterfall, Scrum)  
 -	Theoretical knowledge of testing methods, types and levels of software testing  
@@ -14,7 +14,7 @@ I like to check software products as well as to make them hight quality.
 -	Testing mobile app (**Android studio**)    
 -	**Git**, **Git Bash**, **GitHub**    
 
-:hammer_and_wrench: : Tools:  
+### :hammer_and_wrench: : Tools:  
 
              
 :eyes: You can see my profile on LinkedIn:    
