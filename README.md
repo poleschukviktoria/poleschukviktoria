@@ -27,7 +27,7 @@ I like to check software products as well as to make them hight quality.
 </p>
              
 :eyes: You can see my profile on LinkedIn:    
-linkedin.com/in/viktoria-poleschuk-928b12217
+[linkedin.com/in/viktoria-poleschuk-928b12217](https://www.linkedin.com/in/viktoria-poleschuk-928b12217/)
 
 Feel free to contact me:   
 :email: poleschukviktoria@gmail.com
