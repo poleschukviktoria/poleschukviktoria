@@ -1,7 +1,7 @@
 :wave: Hi, my name is Viktoria and I`m a beginner tester!  
 I like to check software products as well as to make them hight quality.
 
-### :woman_technologist: My general skills:  
+### :woman_technologist: My skills:  
 -	Creating checklists, test cases and bug reports  
 -	Theoretical knowledge of Software Development Methodologies (Waterfall, Scrum)  
 -	Theoretical knowledge of testing methods, types and levels of software testing  
