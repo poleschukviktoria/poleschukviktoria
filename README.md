@@ -1,4 +1,4 @@
-:wave: Hi, my name is Viktoria and I`m a beginner tester!  
+## :wave:  Hi, my name is Viktoria and I`m a beginner tester!  
 I like to check software products as well as to make them hight quality.
 
 ### :woman_technologist: My skills:  
