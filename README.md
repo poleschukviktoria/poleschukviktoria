@@ -12,7 +12,8 @@ I like to check software products as well as to make them hight quality.
 -	Changing responses (**Charles proxy**)  
 -	Experience in testing web service. Creating Environment, Collections, sending requests (**Postman**)  
 -	Testing mobile app (**Android studio**)    
--	**Git**, **Git Bash**, **GitHub**    
+-	**Git**, **Git Bash**, **GitHub**   
+- **VirtualBox**     
 
 ### :hammer_and_wrench: Tools:  
 <p>
@@ -24,6 +25,7 @@ I like to check software products as well as to make them hight quality.
   <img src="https://github.com/poleschukviktoria/poleschukviktoria/blob/main/icon/postman_icon%2022.35.53.png" width="50" title="Postman">
   <img src="https://github.com/poleschukviktoria/poleschukviktoria/blob/main/icon/terminal_icon.png" width="50" title="Terminal">
   <img src="https://github.com/poleschukviktoria/poleschukviktoria/blob/main/icon/sql.png" width="50" title="SQL">
+  <img src="https://github.com/poleschukviktoria/poleschukviktoria/blob/main/icon/virtualbox.png" width="50" title="SQL">
 </p>
              
 :eyes: You can see my profile on LinkedIn:    
